@@ -21,7 +21,7 @@ The development of ReportHub will be based on GitHub Fork and Pull Request Workf
 
 ## Submitting Work
 
-Based on the prescribed workflow
+Based on the prescribed GitHub Fork and Pull Request Workflow detailed [above](https://gist.github.com/Chaser324/ce0505fbed06b947d962).
 
 #### Steps 
 
