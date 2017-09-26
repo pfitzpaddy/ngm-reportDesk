@@ -26,5 +26,5 @@ Based on the prescribed GitHub Fork and Pull Request Workflow detailed [above](h
 #### Steps 
 
   1. In order to start work create a branch, which must be related to an issue. Its possible to use a shortcut to create a new branch and check it out.
-  > `git checkout -b feature-user-statistic-apis`
+  `git checkout -b feature-user-statistic-apis`
   2. Once complete a [Pull Request](https://help.github.com/articles/about-pull-requests/) can be made.
